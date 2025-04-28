@@ -1,0 +1,12 @@
+train: D:\I2I Techno Solutions\Yolo v11 custom\train
+val: D:\I2I Techno Solutions\Yolo v11 custom\valid
+
+nc: 2
+names: ['Glasses', 'glasses']
+
+roboflow:
+  workspace: my-workspace-yciwe
+  project: wearing-glasses-ihirq
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/my-workspace-yciwe/wearing-glasses-ihirq/dataset/3
