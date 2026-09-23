@@ -1,4 +1,4 @@
-👁️ Pupillary Distance Calculator
+##👁️ Pupillary Distance Calculator
 
 A computer vision-based **iOS application** that automatically calculates **Pupillary Distance (PD)** using facial landmark detection and object detection.
 
@@ -27,23 +27,23 @@ The application uses **Dlib, OpenCV, and YOLOv11** to detect facial features and
 
 Follow these simple steps to calculate your Pupillary Distance:
 
-i) Open the iOS App
+## i) Open the iOS App
 
 Launch the **Pupillary Distance Calculator** application on your iPhone.
 
-ii) Position Your Face
+## ii) Position Your Face
 
 Place your face inside the **circle displayed on the screen**.
 
 Make sure your face is properly aligned within the circle.
 
-iii) Wait for the Timer
+## iii) Wait for the Timer
 
 Remain still and look directly at the camera.
 
 Wait until the **countdown timer ends** and the image is automatically captured.
 
-iv) Calculate PD
+## iv) Calculate PD
 
 After the image is captured, press the **"Calculate PD"** button.
 
