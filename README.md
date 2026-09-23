@@ -16,12 +16,17 @@ The application uses **Dlib, OpenCV, and YOLOv11** to detect facial features and
 
 ## 🛠️ Technologies Used
 
-1) **Python**
-2) **OpenCV**
-3) **Dlib**
-4) **YOLOv11**
-5) **Computer Vision**
-6) **iOS**
+Sure — here is the same **README-style tech stack table** format:
+
+| Technology          | Purpose                                     |
+| ------------------- | ------------------------------------------- |
+| **Python**          | Core programming language                   |
+| **OpenCV**          | Image processing and computer vision        |
+| **Dlib**            | Facial landmark detection and face analysis |
+| **YOLOv11**         | Object detection and pupil/eye detection    |
+| **Computer Vision** | Image-based facial and pupil analysis       |
+| **Flask**           | Backend and web application framework       |
+
 
 ## 📱 How to Use
 
