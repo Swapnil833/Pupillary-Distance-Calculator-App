@@ -1,4 +1,4 @@
-##👁️ Pupillary Distance Calculator
+## 👁️ Pupillary Distance Calculator
 
 A computer vision-based **iOS application** that automatically calculates **Pupillary Distance (PD)** using facial landmark detection and object detection.
 
